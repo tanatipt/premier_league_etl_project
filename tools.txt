@@ -1,0 +1,1 @@
+Mongo DB, Airflow, Spark SQL , Spark RDD, AWS EMR, AWS EC2, AWS S3, Snowflake
